@@ -76,7 +76,7 @@ export default function ConnectorApp() {
                 data-aos="fade-up"
                 className="bg-[#1a2030] rounded-xl px-8 py-10 text-center 
                 border border-transparent transition-all duration-300 
-                group-hover:border-purple-500 group-hover:shadow-2xl group-hover:shadow-purple-700/30 hover:bg-purple-600"
+                group-hover:border-green-500 group-hover:shadow-2xl group-hover:shadow-green-700/30 hover:bg-green-600"
               >
                 <img src={item.img} alt={item.title} className="w-16 mx-auto mb-6" />
                 <h5 className="text-xl font-semibold mb-3">{item.title}</h5>
